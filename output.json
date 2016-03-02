@@ -1,0 +1,22 @@
+[
+  {
+    "foo": [
+      {
+        "bar": [
+          {
+            "filename": "bar.txt",
+            "filePath": "D:\\WorkingSoftware\\wamp\\www\\gitRepo\\output-directory\\example\\foo\\bar\\bar.txt"
+          }
+        ]
+      },
+      {
+        "filename": "baz.txt",
+        "filePath": "D:\\WorkingSoftware\\wamp\\www\\gitRepo\\output-directory\\example\\foo\\baz.txt"
+      }
+    ]
+  },
+  {
+    "filename": "test.js",
+    "filePath": "D:\\WorkingSoftware\\wamp\\www\\gitRepo\\output-directory\\example\\test.js"
+  }
+]

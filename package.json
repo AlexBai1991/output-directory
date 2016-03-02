@@ -1,0 +1,24 @@
+{
+  "name": "output-directory",
+  "version": "0.0.1",
+  "description": "a helper for outputting directories within specified directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AlexBai1991/output-directory.git"
+  },
+  "keywords": [
+    "nodejs",
+    "output",
+    "directory"
+  ],
+  "author": "Alex Bai <alexbai1991@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexBai1991/output-directory/issues"
+  },
+  "homepage": "https://github.com/AlexBai1991/output-directory#readme"
+}
